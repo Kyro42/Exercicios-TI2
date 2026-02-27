@@ -1,4 +1,0 @@
-INDEX VERSION 1.134+C:\Users\Kyro\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core
-2627657950.index
-950989839.index
-1865797976.index
